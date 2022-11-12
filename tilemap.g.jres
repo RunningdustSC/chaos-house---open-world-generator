@@ -1,0 +1,19 @@
+{
+    "tile1": {
+        "data": "hwQQABAAAAB3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3f/////f3d3d///////f3d3////////d3f///////93d1X1VVX//393VfVVVfX/f3f///9V9f9/d////1/1/393////X/X/f3f///////9/d3f3/1/1/393d/f/X/X/f3d39/9f9f9/dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile"
+    },
+    "tile2": {
+        "data": "hwQQABAAAAB3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3f/////f3d3d///////f3d3////////d3f///////93d1X1VVX//393VfVVVfX/f3f///9V9f9/d////1/1/393////X/X/f3f///////9/d3f3/1/1/393d/f/X/X/f3d39/9f9f9/dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile0"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
