@@ -3,13 +3,37 @@
         "data": "hwQQABAAAAB3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3f/////f3d3d///////f3d3////////d3f///////93d1X1VVX//393VfVVVfX/f3f///9V9f9/d////1/1/393////X/X/f3f///////9/d3f3/1/1/393d/f/X/X/f3d39/9f9f9/dw==",
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true,
-        "displayName": "myTile"
+        "displayName": "NE Road"
     },
     "tile2": {
-        "data": "hwQQABAAAAB3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3f/////f3d3d///////f3d3////////d3f///////93d1X1VVX//393VfVVVfX/f3f///9V9f9/d////1/1/393////X/X/f3f///////9/d3f3/1/1/393d/f/X/X/f3d39/9f9f9/dw==",
+        "data": "hwQQABAAAAB39/9f9f9/d3f3/1/1/393d/f/X/X/f3d39////////3f3/1/1////d/f/X/X///939/9fVf///3f3/19VVV9Vd/f//1VVX1V3d////////3d3////////d3f3//////93d3f3/////3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dw==",
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true,
-        "displayName": "myTile0"
+        "displayName": "SW Road"
+    },
+    "tile4": {
+        "data": "hwQQABAAAAB3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3f3/////3d39///////d3f///////93d////////3f3//9VVV9Vd/f/X1VVX1V39/9fVf///3f3/1/1////d/f/X/X///939////////3f3/1/1/393d/f/X/X/f3d39/9f9f9/dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "SE Road"
+    },
+    "tile3": {
+        "data": "hwQQABAAAAB39/9f9f9/d3f3/1/1/393d/f/X/X/f3f///////9/d////1/1/393////X/X/f3f///9V9f9/d1X1VVX1/393VfVVVf//f3f///////93d////////3d3//////9/d3f/////f3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "NW Road"
+    },
+    "tile5": {
+        "data": "hwQQABAAAAB3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3f//////////////////////////////////////////1X1VVVVVV9VVfVVVVVVX1X//////////////////////////////////////////3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Vertical Road"
+    },
+    "tile6": {
+        "data": "hwQQABAAAAB39/9f9f9/d3f3/1/1/393d/f/X/X/f3d39/////9/d3f3/1/1/393d/f/X/X/f3d39/9f9f9/d3f3/1/1/393d/f/X/X/f3d39/9f9f9/d3f3/1/1/393d/f/X/X/f3d39/////9/d3f3/1/1/393d/f/X/X/f3d39/9f9f9/dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Horizontal Road"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
