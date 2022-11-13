@@ -35,6 +35,12 @@
         "tilemapTile": true,
         "displayName": "Horizontal Road"
     },
+    "tile7": {
+        "data": "hwQQABAAAAB39/9f9f9/d3f3/1/1/393d/f/X/X/f3f//////////////1/1////////X/X///////9f9f///1X1VVVVVV9VVfVVVVVVX1X///9f9f///////1/1////////X/X//////////////3f3/1/1/393d/f/X/X/f3d39/9f9f9/dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Crossroad"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
