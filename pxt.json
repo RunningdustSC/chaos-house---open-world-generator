@@ -4,7 +4,8 @@
     "dependencies": {
         "device": "*",
         "Sprite Grid": "github:microsoft/arcade-grid#v1.3.0",
-        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.0.1"
+        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.0.1",
+        "color-coded-tilemap": "*"
     },
     "files": [
         "main.blocks",
